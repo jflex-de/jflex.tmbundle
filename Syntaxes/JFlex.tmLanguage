@@ -13,9 +13,17 @@
 	<array>
 		<dict>
 			<key>begin</key>
-			<string>\G</string>
+			<string>\A</string>
 			<key>end</key>
-			<string>(?=^%%)</string>
+			<string>^%(?=%)</string>
+			<key>endCaptures</key>
+			<dict>
+				<key>0</key>
+				<dict>
+					<key>name</key>
+					<string>markup.heading.jflex</string>
+				</dict>
+			</dict>
 			<key>name</key>
 			<string>meta.package.jflex</string>
 			<key>patterns</key>
@@ -170,7 +178,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>^%%</string>
+			<string>%</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>0</key>
