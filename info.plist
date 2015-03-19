@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>yfs@wsyrk.qr</string>
+	<key>contactName</key>
+	<string>Gerwin Klein</string>
+	<key>description</key>
+	<string>Support for the &lt;a href="http://jflex.de"&gt;JFlex&lt;/a&gt; scanner generator.</string>
+	<key>name</key>
+	<string>JFlex</string>
+	<key>uuid</key>
+	<string>CCAC55B2-F16E-40CC-943A-9EBBA8ADD3C5</string>
+</dict>
+</plist>
