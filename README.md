@@ -4,7 +4,7 @@ JFlex Bundle
 This is a [TextMate](https://github.com/textmate/textmate) bundle for the 
 [JFlex](http://jflex.de) scanner generator.
 
-At this point, the bundle mostly a language grammar for syntax highlight.
+At this point, the bundle is mostly a language grammar for syntax highlight.
 
 Contributions are welcome.
 
