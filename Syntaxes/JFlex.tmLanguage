@@ -234,7 +234,7 @@
 						</dict>
 					</dict>
 					<key>match</key>
-					<string>^(%(?:class|extends|type|ctorarg|implements|include|initthrow|eofthrow|yylexthrow|throws|scanerror))\s+(.+)</string>
+					<string>^(%(?:class|extends|type|ctorarg|implements|include|initthrow|eofthrow|yylexthrow|throws|scanerror|warn|no-warn|suppress))\s+(.+)</string>
 					<key>name</key>
 					<string>meta.somearg.jflex</string>
 				</dict>
@@ -325,7 +325,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>^%(char|line|column|byaccj|cup2|cup(debug)?|integer|int(wrap)?|yyeof|notunix|7bit|full|8bit|16bit|caseless|ignorecase|public|apiprivate|final|abstract|debug|standalone|pack)</string>
+					<string>^%(char|line|column|byaccj|cup2|cup(debug)?|integer|int(wrap)?|yyeof|notunix|7bit|full|8bit|16bit|caseless|ignorecase|public|apiprivate|final|abstract|debug|standalone|pack|no_suppress_warnings)</string>
 					<key>name</key>
 					<string>keyword.other.jflex</string>
 				</dict>
