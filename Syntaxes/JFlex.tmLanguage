@@ -234,7 +234,7 @@
 						</dict>
 					</dict>
 					<key>match</key>
-					<string>^(%(?:class|extends|type|ctorarg|implements|include|initthrow|eofthrow|yylexthrow|throws|scanerror|warn|no-warn|suppress))\s+(.+)</string>
+					<string>^(%(?:class|extends|type|ctorarg|implements|include|initthrow|eofthrow|yylexthrow|throws|scanerror|warn|no-warn|suppress|token_size_limit))\s+(.+)</string>
 					<key>name</key>
 					<string>meta.somearg.jflex</string>
 				</dict>
